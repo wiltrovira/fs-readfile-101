@@ -1,0 +1,21 @@
+
+{
+	"primerNombre" : "Jane",
+	"segundoNombre" : "Alexandra",
+	"primerApellido" : "Doe",
+	"segundoApellido" : "Mondragón",
+	"estadoCivil" : "Casada",
+	"generoSexo" : "Mujer",
+	"idiomaPreferido" : "Español",
+	"fechaDeNacimiento" : "1984/08/13",
+	"permalink" : "janedoe",
+	"correoElectronico" : "janedoeg@example.com",
+	"avatar" : "avatar",
+	"passwordHash" : "Password",
+	"passwordSalt" : "Password",
+	"timeStamp" : "2017/09/02",
+	"fechaDeCreacion" : "2017/09/02",
+	"fechaDeUltimaModificacion" : "2017/09/02",
+	"prefijo" : "Sra.",
+	"sufijo" : ""
+}
